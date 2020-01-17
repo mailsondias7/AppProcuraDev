@@ -1,1 +1,4 @@
+#Criei o arquivo .gitignore
+#coloquei o nome da pasta que será ignorado e não vai subir para github
+# /node_modules
 /node_modules
