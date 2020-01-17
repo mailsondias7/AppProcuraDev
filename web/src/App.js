@@ -2,6 +2,7 @@ import React from 'react';
 import './global.css';
 import './App.css';
 import './Sidebar.css';
+import './Main.css';
 
 
 function App() {
@@ -35,7 +36,63 @@ function App() {
         </form>
       </aside>
       <main>
+        <ul>
+          <li className="dev-item">
+            <header>
+              <img src="https://avatars1.githubusercontent.com/u/42123109?s=460&v=4" alt="Mailson Dias" />
+              <div className="user-info">
+                <strong>Mailson Dias</strong>
+                <span>C#, Html</span>
+              </div>
+            </header>
+            <p>
+              Estudante - SENAI/CIMATEC - Análise e Desenvolvimento de Sistemas
+            </p>
+            <a href="https://github.com/mailsondias7/">Acessar Perfil Github</a>
+          </li>
 
+          <li className="dev-item">
+            <header>
+              <img src="https://avatars1.githubusercontent.com/u/42123109?s=460&v=4" alt="Mailson Dias" />
+              <div className="user-info">
+                <strong>Mailson Dias</strong>
+                <span>C#, Html</span>
+              </div>
+            </header>
+            <p>
+              Estudante - SENAI/CIMATEC - Análise e Desenvolvimento de Sistemas
+            </p>
+            <a href="https://github.com/mailsondias7/">Acessar Perfil Github</a>
+          </li>
+
+          <li className="dev-item">
+            <header>
+              <img src="https://avatars1.githubusercontent.com/u/42123109?s=460&v=4" alt="Mailson Dias" />
+              <div className="user-info">
+                <strong>Mailson Dias</strong>
+                <span>C#, Html</span>
+              </div>
+            </header>
+            <p>
+              Estudante - SENAI/CIMATEC - Análise e Desenvolvimento de Sistemas
+            </p>
+            <a href="https://github.com/mailsondias7/">Acessar Perfil Github</a>
+          </li>
+
+          <li className="dev-item">
+            <header>
+              <img src="https://avatars1.githubusercontent.com/u/42123109?s=460&v=4" alt="Mailson Dias" />
+              <div className="user-info">
+                <strong>Mailson Dias</strong>
+                <span>C#, Html</span>
+              </div>
+            </header>
+            <p>
+              Estudante - SENAI/CIMATEC - Análise e Desenvolvimento de Sistemas
+            </p>
+            <a href="https://github.com/mailsondias7/">Acessar Perfil Github</a>
+          </li>
+        </ul>
       </main>
     </div>
   );
